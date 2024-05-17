@@ -1,0 +1,13 @@
+
+11:15:09 : 192.168.113.101 estableciendo conexion via SSH
+11:15:12 : 192.168.113.101 conexion establecida con exito
+11:15:14 : 192.168.113.101 memoria disponible 67269382
+11:15:14 : 192.168.113.101 comando de transferencia enviado 
+11:15:16 : 192.168.113.101 conectando al servidor tftp para la transferencia, tiempo de espera por 85 segundos 
+11:16:41 : 192.168.113.101 tiempo de espera finalizado 
+11:16:42 : 192.168.113.101 transferencia realizada con exito
+11:16:48 : 192.168.113.101 la nueva imagen ha sido booteada
+11:17:13 : 192.168.113.101 comando wr aplicado con exito
+11:17:16 : 192.168.113.101 comando reload enviado
+11:17:16 : 192.168.113.101 coniguracion finalizada
+-------------------------------------------------------------

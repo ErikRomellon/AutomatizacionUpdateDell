@@ -1,0 +1,170 @@
+
+11:15:14 : 192.168.113.101
+SW1-CX>en
+Password:********
+
+SW1-CX#
+SW1-CX#dir
+
+Attr  Size(bytes)          Creation Time        Name
+  -rw                   64 Aug 30 2022 23:07:34 logNvmSave.bin
+  -rw             40643800 Aug 30 2022 23:00:15 image2
+  -rw                    5 Aug 30 2022 23:07:34 ologNdx0.txt
+ drwx                   40 Aug 30 2022 23:08:12 ramrc
+  -rw                   17 Nov 26 2021 15:37:06 SupportAssistEULAAccepted
+ drwx                 4096 Nov 26 2021 15:34:58 boot
+  -rw                16272 Aug 30 2022 23:08:12 log2.bin
+  -rw                   44 Aug 30 2022 23:08:36 hpc_broad.cfg
+ -rwx              5382416 Nov 26 2021 15:34:58 vmlinuz
+  -rw                  592 Aug 30 2022 23:06:46 slog1.txt
+  -rw                  641 Aug 29 2022 22:57:39 ssh_host_key.pub
+ drwx                 4096 Aug 30 2022 23:08:37 user-apps
+  -rw                 3870 Aug 30 2022 21:40:20 fastpath.cfg
+ -rwx              6132090 Nov 26 2021 15:34:58 initrd.img
+  -rw                    0 Aug 30 2022 23:00:15 image2.txt
+ -rwx                   10 Nov 26 2021 15:35:42 user.start
+  -rw                    6 Aug 30 2022 21:40:21 serial_speed.pending
+  -rw                  393 Aug 29 2022 22:57:38 ssh_host_rsa_key.pub
+  -rw                  421 Aug 30 2022 23:08:38 coredump_regular_config
+ drwx                16384 Nov 26 2021 15:34:56 lost+found
+  -rw                  601 Aug 29 2022 22:57:27 ssh_host_dsa_key.pub
+--More-- or (q)uit                    -rw                    0 Aug 30 2022 00:13:52 olog1.txt
+--More-- or (q)uit                   drwx                 4096 Aug 30 2022 23:08:13 .
+--More-- or (q)uit                    -rw                  715 Aug 30 2022 23:07:23 coredump_debug_config
+--More-- or (q)uit                   drwx                 4096 Nov 26 2021 15:34:59 grub
+--More-- or (q)uit                    -rw                   51 Aug 30 2022 23:07:34 cpumodelname.txt
+--More-- or (q)uit                    -rw                    0 Aug 30 2022 23:07:34 slog0.txt
+--More-- or (q)uit                   drwx                    0 Aug 14 2021 04:31:27 ..
+--More-- or (q)uit                    -rw                 1675 Aug 29 2022 22:57:38 ssh_host_rsa_key
+--More-- or (q)uit                    -rw                  111 Nov 26 2021 15:37:06 ldap.conf
+--More-- or (q)uit                    -rw                    0 Aug 30 2022 23:07:34 olog0.txt
+--More-- or (q)uit                    -rw                  156 Nov 26 2021 15:36:43 dh512.pem
+--More-- or (q)uit                    -rw                  668 Aug 29 2022 22:57:27 ssh_host_dsa_key
+--More-- or (q)uit                    ---                  372 Nov 26 2021 15:36:21 watchdog.data
+--More-- or (q)uit                    -rw                    0 Aug 29 2022 21:53:01 olog2.txt
+--More-- or (q)uit                    -rw                  172 Nov 26 2021 15:35:43 hpc_port_broad.cfg
+--More-- or (q)uit                    -rw                  976 Aug 29 2022 22:57:39 ssh_host_key
+--More-- or (q)uit                    -rw                   40 Nov 26 2021 15:35:43 hpc_add_broad.cfg
+--More-- or (q)uit                    -rw                   70 Aug 30 2022 23:07:23 coredump_debug_config.md5sum
+--More-- or (q)uit                    -rw                   72 Aug 30 2022 23:08:38 coredump_regular_config.md5sum
+--More-- or (q)uit                    -rw                   96 Aug 30 2022 23:08:38 snmpOprData.cfg
+--More-- or (q)uit                    -rw                    5 Aug 30 2022 23:06:46 ologNdx1.txt
+--More-- or (q)uit                    -rw             40368331 Nov 26 2021 15:34:58 image1
+--More-- or (q)uit                    -rw                  245 Nov 26 2021 15:36:43 dh1024.pem
+--More-- or (q)uit                    -rw                  592 Aug 30 2022 00:13:04 slog2.txt
+--More-- or (q)uit                   drwx                   40 Aug 30 2022 23:08:13 ramcp
+--More-- or (q)uit                    -rw                 1626 Aug 30 2022 21:40:21 startup-config
+--More-- or (q)uit                   drwx                 4096 Nov 26 2021 15:34:58 broadcom
+--More-- or (q)uit                    -rw                    5 Aug 30 2022 00:13:04 ologNdx2.txt
+--More-- or (q)uit                    -rw                    6 Nov 26 2021 15:34:58 dim.active
+--More-- or (q)uit                   drwx                 4096 Nov 26 2021 15:34:58 etc
+--More-- or (q)uit                   drwx                 4096 Aug 29 2022 21:15:51 crashlogs
+--More-- or (q)uit                  
+--More-- or (q)uit                  Total Size: 3059871744
+--More-- or (q)uit                  Bytes Used: 92602362
+--More-- or (q)uit                  Bytes Free: 2967269382
+
+SW1-CX#
+11:16:42 : 192.168.113.101
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#
+SW1-CX#copy tftp://148.209.113.250/N2200v6.6.3.17.stk backup
+
+
+Transfer Mode.................................. TFTP  
+Server IP Address.............................. 148.209.113.250
+Source File Path............................... ./
+Source Filename................................ N2200v6.6.3.17.stk
+Data Type...................................... Code            
+Destination Filename........................... backup
+
+Management access will be blocked for the duration of the transfer
+Are you sure you want to start? (y/n) y
+
+
+TFTP Code transfer starting...
+
+0 bytes transferred...1537024 bytes transferred...3110912 bytes transferred...4684800 bytes transferred...6257664 bytes transferred...7831552 bytes transferred...9404416 bytes transferred...10978304 bytes transferred...12552192 bytes transferred...14125056 bytes transferred...15698944 bytes transferred...17271808 bytes transferred...18844672 bytes transferred...20417536 bytes transferred...21989376 bytes transferred...23564288 bytes transferred...25137152 bytes transferred...26710016 bytes transferred...28283904 bytes transferred...29853696 bytes transferred...31430656 bytes transferred...33004544 bytes transferred...34576384 bytes transferred...36150272 bytes transferred...37723136 bytes transferred...39296000 bytes transferred...40643800 bytes transferred   
+
+File contents are valid. Copying file to flash...
+
+Attempting to send the STK file to other units in the stack...
+
+
+File transfer operation completed successfully.
+
+SW1-CX#
+11:17:13 : 192.168.113.101boot system backup
+Activating image backup ..
+
+SW1-CX#wr
+
+This operation may take few minutes.
+Management interfaces will not be available during this time.
+
+Are you sure you want to save? (y/n) y
+
+
+Configuration Saved!
+SW1-CX#
+SW1-CX#
